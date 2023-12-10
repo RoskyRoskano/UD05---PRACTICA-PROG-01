@@ -1,0 +1,6 @@
+Nacho;44
+Juan;70
+Mario;9
+Laura;6
+Ana;40
+Jaume;101
